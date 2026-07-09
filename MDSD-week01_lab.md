@@ -1,4 +1,3 @@
-<img width="294" height="746" alt="ภาพถ่ายหน้าจอ 2569-07-09 เวลา 23 58 30" src="https://github.com/user-attachments/assets/4e89a0df-6096-4e56-b4db-f8370ee547f1" /># 📱 ใบงานการทดลองที่ 1
 ## วิชา: การพัฒนาซอฟต์แวร์สำหรับอุปกรณ์เคลื่อนที่ (Mobile Software Development)
 ## หัวข้อ: ปฐมนิเทศ & แนะนำ Mobile Development — Flutter, Dart & Google AI Studio
 
@@ -1719,15 +1718,10 @@ flutter run
 ## 📋 ส่วนที่ 3: แบบบันทึกผลการทดลอง (Lab Report)
 
 ### 3.1 ผลการติดตั้ง Flutter
+<img width="1390" height="788" alt="image" src="https://github.com/user-attachments/assets/2d731977-1c1f-499b-bd85-b6d66c1b9683" />
 
 ```
 flutter doctor output:
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  <img width="1390" height="788" alt="image" src="https://github.com/user-attachments/assets/2d731977-1c1f-499b-bd85-b6d66c1b9683" />
-               │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
 
 Flutter Version: 3.44.5
 Dart Version: 3.44.5
@@ -1736,17 +1730,13 @@ Android SDK Version: 34.0.0
 
 ### 3.2 Screenshot ของ Flutter App
 
-```
 <img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-07-09 เวลา 23 58 10" src="https://github.com/user-attachments/assets/df71d9ab-47ac-40fb-88a0-b3dc1660dbc1" />
 
-```
 
 **Widget Tree ที่วาด:**
 
-```
-<img width="284" height="463" alt="ภาพถ่ายหน้าจอ 2569-07-09 เวลา 23 58 55" src="https://github.com/user-attachments/assets/3e01897b-79f3-4721-a858-5f9279e52ec8" />
+<img width="294" height="746" alt="ภาพถ่ายหน้าจอ 2569-07-09 เวลา 23 58 30" src="https://github.com/user-attachments/assets/4e89a0df-6096-4e56-b4db-f8370ee547f1" /># 📱 ใบงานการทดลองที่ 1
 
-```
 
 ### 3.3 การเปรียบเทียบ Hot Reload vs Hot Restart
 
@@ -1776,10 +1766,10 @@ Android SDK Version: 34.0.0
 
 ### 3.5 Screenshot ของ AI Chat App
 
-```
 <img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-07-10 เวลา 00 31 42" src="https://github.com/user-attachments/assets/7ccdd8ae-31ea-4361-be03-f16354a3ff93" />
+
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/20468ae7-bb58-4747-a3f7-c758170ebb02" />
-```
+
 
 ---
 
@@ -1792,6 +1782,7 @@ Android SDK Version: 34.0.0
 ```
 คำตอบ:  Flutter เหมือน วาดรูปเองทั้งหมด ทุกปุ่ม ทุกข้อความ ทุกหน้าจอ Flutter เป็นคนวาดเอง จึงทำให้หน้าตาแอปเหมือนกันทั้ง Android และ iPhone และแอนิเมชันลื่นมาก
  React Native เหมือน สั่งให้ Android หรือ iPhone วาดให้ โดยใช้ปุ่มและหน้าจอที่ระบบมีอยู่แล้ว ทำให้แอปดูเป็นธรรมชาติของแต่ละระบบ แต่บางครั้งหน้าตาอาจต่างกันนิดหน่อย และมีการเสียเวลาส่งคำสั่งระหว่าง JavaScript กับระบบ
+```
 
 **2.** อธิบายความแตกต่างระหว่าง `StatelessWidget` และ `StatefulWidget` พร้อมยกตัวอย่างการใช้งานที่เหมาะสมของแต่ละประเภท
 
